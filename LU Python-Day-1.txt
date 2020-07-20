@@ -1,0 +1,24 @@
+LU Python Essential Batch-6/Day-1
+
+Ques.1 What is python? what are the ways to install python in your PC?
+
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse.
+
+Various ways of installing python in your  pc :
+1.)  Downloading and installing python from the official website
+         (Python.org)
+2.)  Downloading and installing Anaconda which is a free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment.
+         (Anaconda.com)
+3.)  Downloading and installing Pycharm ,an IDE tool
+
+
+Ques.2 What are code environments.? Types?
+
+Code environment is where you can write, compile, debug and execute code and see the out put. It becomes easy for developers and programmers to keep complete code and data at one place.Environments are independent so you can install different packages or different
+versions of packages in different environments without interaction between them.
+
+Types of Codes :
+
+1.) Full Integrated Development Environments(IDE):eg: Spyder
+2.) Text editors.eg: Notepad,VS Code
+3.) Note book environment: Jupyter
